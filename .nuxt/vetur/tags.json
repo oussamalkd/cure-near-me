@@ -1,0 +1,32 @@
+{
+  "PagesDoctor": {
+    "description": "Auto imported from components/pages/doctor/doctor.vue"
+  },
+  "PagesHeaderDesktopMenu": {
+    "description": "Auto imported from components/pages/header/desktop_menu.vue"
+  },
+  "PagesHeaderDesktopNav": {
+    "description": "Auto imported from components/pages/header/desktop_nav.vue"
+  },
+  "PagesHeaderDesktopNavSearch": {
+    "description": "Auto imported from components/pages/header/desktop_nav_search.vue"
+  },
+  "PagesHeaderLogo": {
+    "description": "Auto imported from components/pages/header/logo.vue"
+  },
+  "PagesHeaderMenu": {
+    "description": "Auto imported from components/pages/header/menu.vue"
+  },
+  "PagesHeaderMobileNav": {
+    "description": "Auto imported from components/pages/header/mobile_nav.vue"
+  },
+  "PagesHeaderMobileSearchHeader": {
+    "description": "Auto imported from components/pages/header/mobile_search_header.vue"
+  },
+  "PagesHeaderSearch": {
+    "description": "Auto imported from components/pages/header/search.vue"
+  },
+  "PagesNurse": {
+    "description": "Auto imported from components/pages/nurse/nurse.vue"
+  }
+}

@@ -1,0 +1,419 @@
+
+.login-form.d-lg-block .title h1 {
+    text-align: left;
+}
+.title h1 { font-size: 1.5rem;}
+.right-content { padding:0rem 1rem 2rem 1rem;}
+.dr-profile-and-details { gap: 1rem;}
+.bottom-cta.mt-4.d-flex.d-md-none a.btn img { width: 13px;}
+.networkPage .row { margin-right: 0; margin-left: 0;}
+.networkPage .row>*{ padding-right: 0; padding-left:0; }
+.news-box { gap: 1rem;}
+.contact-us-box.shadow-none.shadow-lg.p-4 { padding: 1.5rem !important;}
+@media (min-width:481px) {
+
+
+}
+
+
+@media (min-width:576px) {
+.networkPage .row { margin-right: calc(var(--bs-gutter-x) * -.5); margin-left: calc(var(--bs-gutter-x) * -.5);}
+.networkPage .row>*{ padding-right: calc(var(--bs-gutter-x) * .5); padding-left: calc(var(--bs-gutter-x) * .5); }
+
+}
+
+@media (min-width:768px) {
+.searchdrop.mobileview{ display: none !important; }    
+.owl-stage-outer { padding-top: 20px; padding-bottom: 20px; padding-right: 10px; padding-left: 10px;}
+a.btn.upload-btn.px-5 { width: auto;  padding: .375rem .75rem;} 
+/*.m-top .carousel-select.container.mt-lg-4.mt-0{ padding-right: var(--bs-gutter-x,.75rem); padding-left: var(--bs-gutter-x,.75rem);}*/
+.modal-blur { backdrop-filter: blur(50px); background: #3a548254; border-radius: 24px; padding: 3rem 4rem !important;}
+.menu-img-with-icon { display: flex; gap: 10px;}
+.menu-img-with-icon span { color: white; width: auto; float: none; padding-bottom: 0px; padding-top: 0;}
+
+.modal-of-quick-search .btn-close { background-color: transparent;} 
+.scrollbaradd { height: 93vh; overflow-y: auto;}
+.address-and-timing span.ps-2.text-blue.small { width: 76%;}
+.search-part .container{ padding-right: var(--bs-gutter-x,.75rem); padding-left: var(--bs-gutter-x,.75rem);}
+.search-result-title {  padding: 10px 0px;} 
+/*.scrollbaradd .search-price { flex-basis: 333px;  }*/
+    
+.displaynone{ display: block}   
+.left-dr-profile .rating { margin-top: 1rem;}
+.h4.container.roboto.mt-2.text-blue.login-form { margin-top: 0px !important;}
+.mobilenone{ display: block !important; }
+.SortedPopu header.a-popover-header { border-top-right-radius: 1.4rem; border-top-left-radius: 1.4rem;}
+.modal-content.modal-blur.modelWhite.SortedPopu { padding: 0 !important;}
+.modal-backdrop { top: 0px;}
+.more-details-text { display: flex; gap: 1rem;}
+.mobiledp{ display: none; }
+.search-mobileV{ display: none !important;} 
+.navbar-brand { padding-left: 0px;} 
+    
+.clinic-section.fullwidth { margin-left: 0px; margin-right: 0px; overflow: inherit;}
+.review-section.fullwidth { margin-left: 0px; margin-right: 0px;  overflow: inherit;}   
+.clinic-section.fullwidth .hospital-details-wrap { border-radius: 1rem; margin-bottom: 1.5rem;} 
+.news-boxsB.healthBlog { min-width: 60%;}   
+
+.btn-for-locate-map a.btn.btnbook { font-size: 15px; padding: 8px 25px; background: linear-gradient(0deg, #23355F 0.81%, #314B87 86.42%);}  
+a.moreless-button.text-blue { float: left; } 
+a.moreless-button.text-blue { float: left;}
+
+.mapLocate iframe { min-height: 100%;}
+.mobile-padding.review h4.mb-3.text-blue.leftpyou { padding-left: 0rem;}
+
+.box-of-short-details.grouppat { flex-flow: inherit; gap:12px; }
+.rightshortdet {text-align: left; padding-top: 8px;}  
+.leftshortdet img { width: 58px;}
+.leftshortdet { float: left; width: 65px; padding-bottom: 0px; }
+.banner-row, .testimonial { margin-top: 50px !important;}
+.boxAccess{ display: none; }
+
+
+.about-medicaBlog img { width: 120px; height: 120px; margin-right: 9px;}
+/*.about-medicaBlog .leftm { margin-left: -65px;}*/
+.about-medicaBlog .rightBlogm { /*margin-right: -65px;*/ float: right; width: auto;}
+.about-medicaBlog .title-with-line { padding-top: 46px; padding-left: 0px; padding-right: 35px;}
+/*.our-team.about-medicaBlog.overflow-hidden { margin-left: -9%;}*/
+.left-dr-and-right-rate.overall .dr-price-box{margin-bottom: 0.8rem;}
+.new-search-section.fullwith .title { display: inline-block;}
+.faqsc .row { margin-right: calc(var(--bs-gutter-x) * -.5); margin-left: calc(var(--bs-gutter-x) * -.5);}
+.news-box { gap: 2rem;}
+.contact-us-box.shadow-none.shadow-lg.p-4 { padding: 0.5rem !important;}
+}
+
+@media (min-width:992px) {
+.owl-stage-outer { padding-top: 25px; padding-bottom: 25px; padding-right: 15px; padding-left: 15px;}
+.designtabs .item > div { margin-right: 24px;}
+.price-details { background-color: var(--white);}
+.filter-short-btn { padding: 0.5rem 1rem;}
+.filter-and-short.only-mobile.d-flex.d-lg-none.justify-content-center.mt-4.py-3 { margin-top: 1.5rem!important;}
+.icon-d { padding-right: 0px;}
+.left-logo-replace.d-flex.Desktopve{display: flex !important;}
+.filter-short-btn.destloct{display: none;}
+    
+.btmsection .testimonial { padding:2rem 0.5rem;}    
+.news-boxsB { width: 31.3%; margin-left: 1%; margin-right: 1%; margin-bottom: 0px;}
+.accordion-button::after{ display: none;}
+.scrollbaradd span.rightbht{ display: block; right: 0;} 
+.cartBlog .distance { gap: 5px;}
+.input-group .form-control { font-size: 1.3rem !important;}
+
+.scrollbaradd .dr-search-list.mt-5{margin-top: 1.5rem!important;}
+.scrollbaradd  .dr-search-list {  margin-bottom: 1rem; margin-left: 1%; width: 98%;}
+.filter-and-short.only-mobile.d-flex.d-lg-none.justify-content-center.mt-4.py-3 { margin-top: 0.5rem!important;}
+.pt-15 { padding-top: 0px;}
+
+.designmobbtn { padding: 0rem 0.1rem 2rem 0.1rem; margin-bottom: 1.5rem;}
+.btn-for-locate-map.mt-2 { margin-top: 0rem!important;}
+.bottom-cta .btn svg { width: 15px;}
+.right-section-pt-exp-rating.d-none.d-lg-flex .circle-with-color>div { font-size: 0.7rem; }
+.circle-with-color { width: 70px; height: 70px;}
+.right-section-pt-exp-rating { transform: translateY(-64px);}   
+
+.topriight { top: 18%;}
+.rating-count.blue-text.text-center { padding-bottom:0px;}
+.three-box-of-dr-short-details .box-of-short-details { padding: 0.5rem; width: 25%;}
+.Desktopon{ display:block; }    
+#filter-only.popup.hide {display: block;  position: absolute; top: 9%; left: 0; right: 0; max-width: 1320px;
+ margin: 0 auto; border-radius: 1rem; border: #1d2e54 1px solid; background: #fff;}
+.headBlog{border-top-left-radius: 1rem; border-top-right-radius: 1rem;}
+
+.popup-body.filterdesign{ height: 100%;}
+    
+.tab-content.mt-4 { margin-top: 1rem!important;}
+.filterdesign .tab-pane ul li span.leftBlogfil { width: 46%;}   
+.filterdesign .tab-pane ul li span.rightBlogfil { width: 46%;}
+    
+.dr-search-list.mt-5.cartBlog.dr-profile {
+    /* margin-top: 1rem!important; */
+    /* margin-bottom: 1rem !important; */
+    height: 100%;
+    border-radius: 6px;
+}.logoIconsdtp { display: inline-block;}
+
+.dr-profile span.rightbht{ display: block; padding-right: 10px; }
+.address-and-timing.dr-profile .accordion-button::after { display: none;}
+.review-row-of-rating.dr-pr-rating{ gap: 1.5rem;}
+.news-boxsB.fullwth { width: 31%;}
+.mobile-padding.review h4.mb-3.text-blue { padding-left: 0rem; padding-right: 0rem;}
+p { font-size: 1.1rem !important;}
+.collapseTwo .box-of-short-details.text-start.timecl { position: relative; height: 314px; overflow: auto;
+    padding-bottom: 40px;}  
+ 
+    
+.desktopview{ display:block  !important;}
+.mobileview{ display: none !important;} 
+.news-boxsB.healthBlog { min-width:48%; width: 48%;  margin-bottom:0px; margin-left: 1%; margin-right: 1%;}
+a.btn.btnblogs.right { bottom: 26px; top: auto;}
+    
+.Blogsdr.right { width: 52%;float: right;}
+    
+.Blogsdr.left { width: 52%; float: left;}
+.HealthBoxs { display: flex; width: 100%; position: relative;}
+.news-boxsB.healthBlog.bg-imgl { background: url(../images/shape_1.webp); background-position: top left;
+background-size: contain; background-repeat: no-repeat;  }      
+.news-boxsB.healthBlog.bg-imgr { background: url(../images/shape_2.webp); background-position: top right;
+background-size: contain; background-repeat: no-repeat;}    
+.news-img { position: inherit;}
+.getregleft {  left: 10px; right: auto; bottom: 60px; }
+
+
+.wrapper-of-box { padding-bottom: 14rem !important;}
+footer { margin-top: -12rem;}
+.btmmrg{ display: inline-block; width: 100%; margin-bottom: 15rem;}
+.mainBoxsnew { display: flex; flex-flow: wrap-reverse;}
+
+input#inlineFormInputGroupUsername { z-index: 1; background: transparent;}
+.hero-search .input-group-text{border-bottom-left-radius: 10px !important; border-top-left-radius:10px !important;}
+.locationcode { display: block; width: 99px; border-left: #b3b3b3 1px solid; line-height: 42px;}
+.locationcode a{ z-index: 9; }
+.leftshortdet{ display: block; }
+.box-of-short-details.Desktopon.grouppat { display: flex;}
+.searchdrop { border-top-right-radius: 0px !important;  border-bottom-right-radius: 10px !important;
+    border-top-left-radius: 10px !important; border-bottom-left-radius: 10px !important; }
+.helpBlog .doctor-accordion .accordion-item { margin-bottom: 1rem !important;}
+.helpBlog .doctor-accordion .accordion-button { background: #E8EFFF !important;
+    border-radius: 16px !important; border-bottom: #E2E2E2 1px solid; }
+.helpBlog .doctor-accordion .accordion-button.collapsed{border-radius: 16px !important; border-bottom: none;}
+.helpBlog .accordion-button { font-size: 1.3rem; }
+.helpBlog .accordion-collapse.collapse.show .accordion-body{background: #fff;}
+/*.helpBlog .doctor-accordion .accordion-button.collapsed{background: #E8EFFF !important;}*/
+.imgBlog.halfleft { width: 49%;float: left; margin-bottom: 0px;}
+.imgBlog.halfright { width: 49%;float: right;}
+
+.helpBlog .dr-search-list { margin-bottom: 1rem;}
+
+.helpBlog .accordion-button:after { content: "-" !important; background-image: none; 
+font-size: 30px; transform: rotate(-0deg) !important; display: inline-block !important;
+line-height: 55%;}
+/* .helpBlog .accordion-button.collapsed:after { content: "+" !important; 
+background-image: none; font-size: 30px; display: inline-block !important; line-height: 55%;} */
+
+.btn.plusbtn{ display: none; }
+.btn.addbtn{ display: inline-block; }
+.networkPage #pills-contact1 { padding-left: 25px; padding-right: 25px;  }
+.networkPage #pills-profile { padding-left: 25px; padding-right: 25px;  }
+.networkPage #pills-contact { padding-left: 25px; padding-right: 25px;  }
+.networkPage #pills-home{ padding-left: 25px; padding-right: 25px;   }
+
+.networkPage .tabHospital #pills-contact1 { padding-left: 0px; padding-right: 0px;  }
+.networkPage .tabHospital #pills-profile { padding-left: 0px; padding-right: 0px;  }
+.networkPage .tabHospital #pills-contact { padding-left: 0px; padding-right: 0px;  }
+.networkPage .tabHospital #pills-home{ padding-left: 0px; padding-right: 0px; }
+
+
+/* .overlayExpe { width: 350px;} */
+.chips-for-search-bottom { gap: 1rem; }
+
+.twocolumn { width: 100%; display: inline-block;}
+.twocolumn .accordion-item {float: left; width: 49%; margin: 0 0.4%;}
+.helpBlog .doctor-accordion .accordion-button[aria-expanded="true"]:first-child{ border-top-left-radius:16px !important;
+    border-top-right-radius: 16px !important; }
+.reviewgroup .rating img { width: auto;}
+.helpBlog.networkPage .p-dr-more-details { justify-content: inherit;}
+
+.imgBlog.about-medi.mobile{ display: none; }
+.imgBlog.about-medi.Desktop{ display: inline-block; }
+
+.blogLeftn { width:79.5%; float: left;}
+.blogRightn { width: 19%; margin-top:0; }
+.news-img.imgBlog { width: 27%;}
+
+.imgBlog.addgoogle { width: 100%; margin-bottom: 38px;}
+.boxsRating { display: flex; width: 100%; align-items: center;}
+.boxsRating .back-and-edit { width: 35%; display: inline-block; position: relative;}
+.boxsRating .title{ width: 30%; display: inline-block; }
+ .new-search-section { width: 35%; display: inline-block;}
+ .search-bar-and-search-btn { gap: 0; margin-right:0px;}
+.search-input input { padding: 0.7rem 2rem; border-bottom-right-radius: 0px; 
+    border-top-right-radius: 0px; border-bottom-left-radius: 8px; border-top-left-radius: 8px;}
+ .search-big-btn { margin-left: 0px; z-index: 1;}
+ .search-input { width: calc(100% - 99px);}
+
+ .search-big-btn a { border-bottom-right-radius: 8px; border-top-right-radius: 8px; 
+    border-bottom-left-radius: 0px; padding: 0.7rem 2rem; border-top-left-radius: 0px; }
+.more-details-bottom-part.pl-pr.mt-5.pt-5{padding-left: 25px; padding-right: 25px;}
+#pills-contact1 .give-rating-to-dr-section { box-shadow: none;}
+.left-dr-and-right-rate.overall { justify-content: inherit;}
+.settingsAccordion .accordion-button::after { display: inline-block !important;}
+.mobileImg{ display: none; }
+.DesktopImg{ display: inline-block; }
+.imgBlog.about-medi { margin: 0 15%; width: 70%; padding-bottom: 15px; }
+/*.our-team.about-medicaBlog.overflow-hidden { margin-left: -9%;}*/
+.boxs-action { width: 100%; display: inline-block; position: relative; padding-left: 60px; margin: 0.3rem;}
+.action { position: absolute; left: 0;top: -4px;}
+.chipsAll { display: flex; justify-content: space-between; align-items: center; align-self: center; }
+.common-innerpage-tabs.nav-pills .nav-link {background: rgba(241, 245, 255, 1);}
+.chips-for-search-bottom { gap: 0.5rem; margin-left:0px;}
+.helpBlog .more-details-bottom-part { padding-top: 0rem !important;}
+.blogRightn{ margin-top:15px; margin-bottom: 0; }
+.imgBlog.addgoogle{margin-bottom: 20px;}
+
+.mobileView{ display: none; }
+.desktopView{ display:inline-block; }
+
+.boxsRating.network { margin-bottom: 1.2rem; margin-top: 0;}
+.boxsRating.network .title h1 { padding-top: 0rem;}
+.new-search-section.Provider {display: none;}
+.new-search-section.fullwith {   padding: 0 !important;}
+.overlayExpe span.fw-bold { top: -16px;}
+.left-dr-and-right-rate.overall{gap: 20px;}
+.new-search-section.desktopView { padding: 0;}
+.back-and-edit.Blog .filter-and-short { justify-content: right; padding-top: 15px;}
+.desktopView.filterwidth { width: 100%;}
+.blogMain .d-flex { justify-content: space-between;}
+.search-grid { display: grid; grid-template-columns: 40% 100%;}   
+.drprofile .last-wrap-of-box .more-detail-box { margin-bottom: 0;} 
+/*.insuLeft { width: 50%; float: left; position: relative;}
+.insuRight { width: 50%; float: left;}
+.insuLeft:after { content: ''; position: absolute; bottom: 0; right: 12px; width: 1px; height: 69%; background: #1d2e53;}
+.insuLeft .chipsBlog { width:auto; font-size: 0.7rem !important; text-align: center;}
+.insuRight .chipsBlog { width: auto; font-size: 0.7rem !important; text-align: center;}*/
+.helpBlog .more-details-bottom-part { padding-top: 0rem !important;}  
+.scrollbarsurgery { overflow: auto; height: 760px;}
+.scrollbarsurgery::-webkit-scrollbar { width: 10px; background-color: #ddd; border-radius: 0 0 5px 0;}
+.scrollbarsurgery::-webkit-scrollbar-thumb { border-radius: 10px; background-color:#c1c1c1;}
+
+
+/* Initial state: scrollbar hidden */
+.scrollbarInsur {
+    overflow: auto;
+    height: 314px;
+}
+
+.scrollbarInsur::-webkit-scrollbar {
+    visibility: hidden;
+    width: 10px; /* Set the width but keep it hidden initially */
+    border-radius: 0 0 10px 0;
+}
+
+/* On hover: scrollbar becomes visible */
+.scrollbarInsur:hover::-webkit-scrollbar {
+    visibility: visible;
+    width: 10px;
+    border-radius: 0 0 10px 0;
+}
+
+
+.scrollbarInsur::-webkit-scrollbar-thumb { border-radius: 10px; background-color:#c1c1c1;}
+
+.collapseTwo .box-of-short-details.text-start.timecl::-webkit-scrollbar { width: 10px; background-color: #ddd; border-radius: 0 0 5px 0;}
+.collapseTwo .box-of-short-details.text-start.timecl::-webkit-scrollbar-thumb { border-radius: 10px; background-color:#c1c1c1;}
+
+
+.login-form.d-lg-block .title h1 { text-align: center;}
+.title h1 { font-size: 1.8rem;}
+.right-content { padding:2rem;}
+.scrollbarpharmacy { position: relative; height: 314px; padding-bottom: 40px;} 	
+.scrollbarpharmacy::-webkit-scrollbar { width: 10px; background-color: #ddd; border-radius: 0 0 5px 0;}
+.scrollbarpharmacy::-webkit-scrollbar-thumb { border-radius: 10px; background-color:#c1c1c1;}
+.sliderBox{padding-bottom: 0;}
+.sliderBox img { height: 314px; vertical-align: inherit;}
+.mapLocate iframe { height: 314px;} 
+.imgBlogheight img{ height: 314px;}
+.relative a.btn.btnshwom { position: absolute; left: 0px; right: 10px; bottom: 0px; width: auto; z-index: 9;}	
+.sliderBox .owl-carousel .owl-item img {display: block;}
+.dr-profile-and-details { gap: 2rem;}
+.bottom-cta.mt-4.d-flex.d-md-none a.btn img { width: 20px;}
+.bottom-cta .btn { font-size: 1rem; line-height: 1.5; padding: .375rem .75rem;}
+
+.pharmacyBoxs.Pharmacyaa { padding: 1rem 2rem;}
+.Pharmacyaa .title{margin-bottom: -36px; }
+.Pharmacyaa .chips-group{ margin-bottom: -32px;  }
+.btn-for-locate-map a.btn { font-size:0.9rem;}
+.scrollbarsurgery .btn-for-locate-map a.btn { font-size: 8px;}
+.three-box-of-dr-short-details.collapseTwo.mg-ach { margin-bottom: 0;}
+.insuLeft .chipsBlog {padding: 5px 13px;}
+.insuRight .chipsBlog {  width: 24%;}
+.pharBoxs { display: flex;}
+.medicince-img-part { margin-top: 0rem;}
+.helpBlog .accordion-collapse.collapse.show .accordion-body { display: inline-block;}
+
+.microsoft.Insurance {  padding: 2rem; }
+.pharmacyBoxs { padding: 2rem;}
+.helpBlog .rounded-custom-ac .accordion-body { border-bottom-left-radius: 16px;
+ border-bottom-right-radius: 16px;}
+
+ .scrollbarpharmacy.Offer { height: 704px;}
+.chips-group { gap: 8px;}
+.chips { padding: 5px 16px;}
+.tpm-row.fullw .tpm-col { padding: 0.6rem 1.2rem;}
+.tpm-row .tpm-col { padding: 0.6rem 1.1rem;}
+.search-part .container-fluid { padding-right: var(--bs-gutter-x,.75rem); padding-left: var(--bs-gutter-x,.75rem);}
+.search-part .mobile-hide.d-none.d-lg-block { margin-left: 1%;}
+.search-part .dr-search-list.mt-5.cartBlog { margin-top: 0 !important;}
+.container.helpBlog.faqsc { padding-right: var(--bs-gutter-x,.75rem); padding-left: var(--bs-gutter-x,.75rem);}
+.container.wrapper-of-box.helpBlog.networkPage { padding-right: var(--bs-gutter-x,.75rem); padding-left: var(--bs-gutter-x,.75rem);}
+body { background: #fafafa; background-color: #F6F6F6;} 
+
+}
+
+@media (min-width:1024px) {
+    
+.m-top{ margin-top:-110px;}
+.hero-section {
+    min-height: 633px;
+    background-position: center -101px;
+}
+.hero-search { padding: 145px 0px;}
+.scrollbaradd { height: 87vh;}  
+.col-md-12.mobile{ display: none}   
+.devider { float: left; padding-left: 2px;}
+.desktopfilter { width: 100%; display: inline-block; position: relative; z-index: 9;}
+ 
+}
+
+@media (min-width:1199px) {
+
+}
+
+@media (min-width:1201px) {
+.scrollbaradd { height: 89vh; }
+.mobile-hide h5.text-blue.mt-3.mb-0 { font-size: 1.5rem;}
+.topriight { top: 18%;}
+.dr-right-details { padding-top: 4%;}
+body { background: #fafafa; background-color: #F6F6F6;} 
+  
+
+}
+
+@media (min-width:1366px) {
+    .hero-section {
+        min-height: 633px;
+        background-position: center -101px;
+    }
+    .m-top { margin-top:-8%;}
+.rating { display: flex; align-items: center; gap: 6px;}
+
+.scrollbaradd { height: 92vh;}
+.topriight { top: 20%;}
+.dr-right-details { padding-top: 3.5%;}
+ 
+.blogCenter { margin: 0 auto; max-width:450px;}
+
+}
+    
+@media (min-width:1536px) {
+.dr-right-details { padding-top:1.5%;}
+ 	
+/*.our-team.about-medicaBlog.overflow-hidden { margin-left: -10%;}*/    
+}
+    
+@media (min-width:1700px) {
+.m-top { margin-top:-2%;}
+.hero-section { min-height: 645px; background-position: center -55px; background-size: cover;}
+.scrollbaradd { height: 93vh;}    
+.topriight { top: 22%;}
+.icon-d svg { width: 20px; height: 20px;}
+.dr-right-details { padding-top: 0%;}
+    
+    
+}
+
+@media (min-width:1800px) {
+ 
+    
+}
+
+

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Oussama\\\\Desktop\\\\demo_project\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6921ed2b"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "C:\\\\Users\\\\Oussama\\\\Desktop\\\\demo_project\\\\pages\\\\_slug\\\\index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_dd511982"
+  },
+  {
+    "name": "slug-slug",
+    "path": "/:slug/:slug",
+    "component": "C:\\\\Users\\\\Oussama\\\\Desktop\\\\demo_project\\\\pages\\\\_slug\\\\_slug.vue",
+    "chunkName": "pages/_slug/_slug",
+    "_name": "_e0be5c12"
+  }
+]
