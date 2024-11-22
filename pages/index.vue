@@ -2976,13 +2976,7 @@ export default {
     head(){
         return {
             title: "Cure Near Me",
-            meta: [{
-                    charset: "utf-8",
-                },
-                {
-                    name: "viewport",
-                    content: "width=device-width, initial-scale=1.0",
-                },
+            meta: [
                 {
                     hid: "description",
                     name: "description",

@@ -1144,19 +1144,7 @@
      head(){
          return {
              title: "Dr Namrata Sing dental in Ahmdabad",
-             meta: [{
-                     charset: "utf-8",
-                 },
-                 {
-                     name: "viewport",
-                     content: "width=device-width, initial-scale=1.0",
-                 },
-                 {
-                     hid: "description",
-                     name: "description",
-                     content: `Book appointment -View clinic timing, service price, treatments & patient review. Dr hari jani dental in Ahmdabad`,
-                 },
- 
+             meta: [ 
                  {
                      hid: 'og:title',
                      property: 'og:title',
@@ -1172,11 +1160,6 @@
                      property: 'og:image',
                      content: 'Dr Namrata Sing dental in Ahmdabad'// replace with your image URL
                  },
-                 {
-                     hid: 'keywords',
-                     name: 'keywords',
-                     content: `Dr Namrata Sing dental in Ahmdabad, Patient Reviews, Contact number, Phone number, Experience, Qualification, Achievements, Ratings, Directions, Map, Working hours, Clinic, Hospital, Services Cost, Consultation Charges, Official Website link.`
-                 }
  
              ],
          };
