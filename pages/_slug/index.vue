@@ -63,6 +63,7 @@ export default {
         doctor,
         nurse,
         desktopnav,
+        mobilenav
     },
     data: () => ({
         resulttype: [],
