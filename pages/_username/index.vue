@@ -1,5 +1,5 @@
 <template>
-  <h1>index page of {{ $route.params.slug }}</h1>
+  <h1>index page of {{ $route.params.username }}</h1>
 </template>
 <script>
 export default {
