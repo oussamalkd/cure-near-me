@@ -6,13 +6,13 @@ export default {
   name: 'SlugPage',
   head () {
     return {
-      title: `Cure Near Me - ${this.$route.params.slug}`,
+      title: `Cure Near Me - ${this.$route.params.username}`,
       meta: [
 
         {
           hid: 'og:title',
           property: 'og:title',
-          content: `Cure Near Me - ${this.$route.params.slug}`
+          content: `Cure Near Me - ${this.$route.params.username}`
         },
         {
           hid: 'og:description',
