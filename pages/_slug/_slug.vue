@@ -106,12 +106,12 @@ export default {
                         {
                         hid: 'og:title',
                         property: 'og:title',
-                        content: "Cure Near Me"
+                        content: "Cure Near Me - Slug page with doctor name"
                         },
                         {
                             hid: "og:description",
                             property: "og:description",
-                            content: `One Stop solutions for all medical needs`,
+                            content: `Cure Near Me - Slug page with custom description`,
                         },
                         {
                             hid: 'og:image',
