@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  target: 'server',
-  ssr: true,
+  target: 'static',
+  ssr: false,
   head: {
     title: 'cure-near-me',
     htmlAttrs: {
