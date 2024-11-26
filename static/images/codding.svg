@@ -1,0 +1,24 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .main { font-size: 70px; fill: blue; }
+    .text { font-size: 24px; }
+  </style>
+  
+  <text x="190" y="250" class="main">CODING</text>
+
+  <text x="100" y="150" class="text" fill="red">TESTING</text>
+  <text x="150" y="100" class="text" fill="orange">ALGORITHM</text>
+  <text x="300" y="50" class="text" fill="green">ANALYSIS</text>
+  <text x="450" y="150" class="text" fill="purple">SECURITY</text>
+  <text x="600" y="100" class="text" fill="blue">DATABASE</text>
+
+  <text x="10" y="300" class="text" fill="gray">OPERATING SYSTEM</text>
+  <text x="650" y="350" class="text" fill="blue">PROCESS</text>
+  <text x="250" y="400" class="text" fill="orange">PLATFORM</text>
+  <text x="450" y="450" class="text" fill="red">DESIGN</text>
+
+  <text x="150" y="350" class="text" transform="rotate(-90 150,350)" fill="green">ENGINEERING</text>
+  <text x="200" y="300" class="text" transform="rotate(90 200,300)" fill="purple">SOFTWARE</text>
+  <text x="700" y="200" class="text" transform="rotate(-90 700,200)" fill="red">METHODOLOGY</text>
+  <text x="600" y="250" class="text" transform="rotate(90 600,250)" fill="blue">CODE</text>
+</svg>
